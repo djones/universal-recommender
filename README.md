@@ -25,7 +25,7 @@ Contributions are encouraged and appreciated. Create a push request (PR) against
 Adds:
 
  - Switched to using `python3` wherever python is invoked. Before this branch it was assumed that the environment mapped `python` to `python3` which is required for PIO 0.12+ and the UR 0.7+. Since many distros have `python` invoke python 2.7 and `python3` is needed to invoke python 3.6 we now do also.
- - Support for cross recommendations like "people sho have viewed similar to you have bought these items". Used to help find things in a browsing/searching scenario.
+ - Support for cross recommendations like "people who have viewed similar to you have bought these items". Used to help find things in a browsing/searching scenario.
 
 ## Git Tag: 0.7.2
 
